@@ -1,0 +1,607 @@
+{
+  "Header": {
+    "RootPath": "C:\\Users\\htapr\\source\\repos\\BlazorApp1",
+    "FileIdMap": {
+      "0": "BlazorApp1\\Program.cs",
+      "1": "BlazorApp1\\Components\\App.razor",
+      "2": "BlazorApp1\\Components\\Routes.razor",
+      "3": "BlazorApp1\\Components\\_Imports.razor",
+      "4": "BlazorApp1\\Components\\Layout\\MainLayout.razor",
+      "5": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+      "6": "BlazorApp1\\Components\\Pages\\Error.razor",
+      "7": "BlazorApp1\\Components\\Pages\\Home.razor",
+      "8": "BlazorApp1\\Components\\Pages\\Weather.razor",
+      "9": "BlazorApp1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "10": "BlazorApp1\\obj\\Debug\\net8.0\\BlazorApp1.AssemblyInfo.cs",
+      "11": "BlazorApp1\\obj\\Debug\\net8.0\\BlazorApp1.GlobalUsings.g.cs",
+      "12": "BlazorApp1.Client\\Program.cs",
+      "13": "BlazorApp1.Client\\_Imports.razor",
+      "14": "BlazorApp1.Client\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "15": "BlazorApp1.Client\\obj\\Debug\\net8.0\\BlazorApp1.Client.AssemblyInfo.cs",
+      "16": "BlazorApp1.Client\\obj\\Debug\\net8.0\\BlazorApp1.Client.GlobalUsings.g.cs",
+      "17": "BlazorApp1.Client\\Pages\\Counter.razor"
+    }
+  },
+  "Entries": [
+    {
+      "FileId": 0,
+      "LineNumber": 4,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 7,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 11,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 14,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 15,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 16,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 17,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 25,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 27,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 28,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 30,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 35,
+      "ThreadId": 46380,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplicationBuilder",
+          "Value": "{Microsoft.AspNetCore.Builder.WebApplicationBuilder}",
+          "Members": null
+        },
+        {
+          "Name": "app",
+          "Type": "Microsoft.AspNetCore.Builder.WebApplication",
+          "Value": "式を評価できません。このエラーの一般的な原因として、ラムダをデリゲート内に渡そうとしたことが考えられます。",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 15,
+      "ThreadId": 53740,
+      "ImageId": 12,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 12,
+      "LineNumber": 3,
+      "ThreadId": 0,
+      "ImageId": 13,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "string[0]",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 12,
+      "LineNumber": 5,
+      "ThreadId": 0,
+      "ImageId": 13,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "string[0]",
+          "Members": null
+        },
+        {
+          "Name": "builder",
+          "Type": "Microsoft.AspNetCore.Components.WebAssembly.Hosting.WebAssemblyHostBuilder",
+          "Value": "Microsoft.AspNetCore.Components.WebAssembly.Hosting.WebAssemblyHostBuilder",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 15,
+      "ThreadId": 0,
+      "ImageId": 13,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 18,
+      "ThreadId": 0,
+      "ImageId": 16,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 19,
+      "ThreadId": 0,
+      "ImageId": 16,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 20,
+      "ThreadId": 0,
+      "ImageId": 16,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 21,
+      "ThreadId": 0,
+      "ImageId": 19,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Value": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 22,
+      "ThreadId": 0,
+      "ImageId": 20,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Value": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 18,
+      "ThreadId": 0,
+      "ImageId": 20,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 19,
+      "ThreadId": 0,
+      "ImageId": 20,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 20,
+      "ThreadId": 0,
+      "ImageId": 20,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "object",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 21,
+      "ThreadId": 0,
+      "ImageId": 24,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Value": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 22,
+      "ThreadId": 0,
+      "ImageId": 24,
+      "Variables": [
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Value": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
+          "Members": null
+        },
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "BlazorApp1.Client.Pages.Counter",
+          "Members": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1499 @@
+{
+  "Header": {
+    "RootPath": "C:\\Users\\htapr\\source\\repos\\ConsoleApp3",
+    "FileIdMap": {
+      "0": "ConsoleApp3\\Class1.cs",
+      "1": "ConsoleApp3\\Log.cs",
+      "2": "ConsoleApp3\\Program.cs",
+      "3": "ConsoleApp3\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "4": "ConsoleApp3\\obj\\Debug\\net8.0\\ConsoleApp3.AssemblyInfo.cs",
+      "5": "ConsoleApp3\\obj\\Debug\\net8.0\\ConsoleApp3.GlobalUsings.g.cs",
+      "6": "ConsoleApp3\\obj\\Release\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+      "7": "ConsoleApp3\\obj\\Release\\net8.0\\ConsoleApp3.AssemblyInfo.cs",
+      "8": "ConsoleApp3\\obj\\Release\\net8.0\\ConsoleApp3.GlobalUsings.g.cs"
+    }
+  },
+  "Entries": [
+    {
+      "FileId": 2,
+      "LineNumber": 4,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 0 Y = 0}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 6,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 7,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[0]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 8,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 9,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "null",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 10,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 0",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 12,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 14,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 15,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 16,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 17,
+      "ThreadId": 46560,
+      "ImageId": 0,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 18,
+      "ThreadId": 46560,
+      "ImageId": 11,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 15,
+      "ThreadId": 46560,
+      "ImageId": 11,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 16,
+      "ThreadId": 46560,
+      "ImageId": 11,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 17,
+      "ThreadId": 46560,
+      "ImageId": 11,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 18,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "i",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 19,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 15,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "ConsoleApp3.Class1",
+          "Value": "{ConsoleApp3.Class1}",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "class2",
+          "Type": "ConsoleApp3.Class2",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 16,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "ConsoleApp3.Class1",
+          "Value": "{ConsoleApp3.Class1}",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "class2",
+          "Type": "ConsoleApp3.Class2",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 17,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "ConsoleApp3.Class1",
+          "Value": "{ConsoleApp3.Class1}",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "class2",
+          "Type": "ConsoleApp3.Class2",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 18,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "ConsoleApp3.Class1",
+          "Value": "{ConsoleApp3.Class1}",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "class2",
+          "Type": "ConsoleApp3.Class2",
+          "Value": "{ConsoleApp3.Class2}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 19,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "ConsoleApp3.Class1",
+          "Value": "{ConsoleApp3.Class1}",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "class2",
+          "Type": "ConsoleApp3.Class2",
+          "Value": "{ConsoleApp3.Class2}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 20,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 22,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 23,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 24,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 25,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 26,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "s",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 27,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "s",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 28,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "s",
+          "Type": "int",
+          "Value": "3",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 29,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 12,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": []
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 30,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "t",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 31,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        },
+        {
+          "Name": "w",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 32,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        },
+        {
+          "Name": "w",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 33,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "4",
+          "Members": null
+        },
+        {
+          "Name": "w",
+          "Type": "int",
+          "Value": "0",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 34,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        },
+        {
+          "Name": "z",
+          "Type": "int",
+          "Value": "4",
+          "Members": null
+        },
+        {
+          "Name": "w",
+          "Type": "int",
+          "Value": "5",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 35,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 0,
+      "LineNumber": 36,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "1",
+          "Members": null
+        },
+        {
+          "Name": "y",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 21,
+      "ThreadId": 46560,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 22,
+      "ThreadId": 46560,
+      "ImageId": 40,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 2,
+      "LineNumber": 23,
+      "ThreadId": 46560,
+      "ImageId": 41,
+      "Variables": [
+        {
+          "Name": "args",
+          "Type": "string[]",
+          "Value": "{string[0]}",
+          "Members": null
+        },
+        {
+          "Name": "p",
+          "Type": "System.Drawing.Point",
+          "Value": "{X = 1 Y = 2}",
+          "Members": null
+        },
+        {
+          "Name": "numbers",
+          "Type": "int[]",
+          "Value": "{int[3]}",
+          "Members": null
+        },
+        {
+          "Name": "dic",
+          "Type": "System.Collections.Generic.Dictionary<string, int>",
+          "Value": "Count = 2",
+          "Members": null
+        },
+        {
+          "Name": "x",
+          "Type": "int",
+          "Value": "2",
+          "Members": null
+        }
+      ]
+    }
+  ]
+}
