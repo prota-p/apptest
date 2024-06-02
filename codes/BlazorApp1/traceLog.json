@@ -26,7 +26,7 @@
     {
       "FileId": 0,
       "LineNumber": 4,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -52,7 +52,7 @@
     {
       "FileId": 0,
       "LineNumber": 7,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -78,7 +78,7 @@
     {
       "FileId": 0,
       "LineNumber": 11,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -104,7 +104,7 @@
     {
       "FileId": 0,
       "LineNumber": 14,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -130,7 +130,7 @@
     {
       "FileId": 0,
       "LineNumber": 15,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -156,7 +156,7 @@
     {
       "FileId": 0,
       "LineNumber": 16,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -182,7 +182,7 @@
     {
       "FileId": 0,
       "LineNumber": 17,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -208,7 +208,7 @@
     {
       "FileId": 0,
       "LineNumber": 25,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -234,7 +234,7 @@
     {
       "FileId": 0,
       "LineNumber": 27,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -260,7 +260,7 @@
     {
       "FileId": 0,
       "LineNumber": 28,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -286,7 +286,7 @@
     {
       "FileId": 0,
       "LineNumber": 30,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -312,7 +312,7 @@
     {
       "FileId": 0,
       "LineNumber": 35,
-      "ThreadId": 46380,
+      "ThreadId": 60776,
       "ImageId": 0,
       "Variables": [
         {
@@ -338,8 +338,742 @@
     {
       "FileId": 17,
       "LineNumber": 15,
-      "ThreadId": 53740,
+      "ThreadId": 2652,
       "ImageId": 12,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 15,
+      "ThreadId": 38228,
+      "ImageId": 13,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 18,
+      "ThreadId": 61408,
+      "ImageId": 14,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 19,
+      "ThreadId": 61408,
+      "ImageId": 15,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 20,
+      "ThreadId": 61408,
+      "ImageId": 16,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 21,
+      "ThreadId": 4476,
+      "ImageId": 17,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference {Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Value": "{Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 22,
+      "ThreadId": 2652,
+      "ImageId": 18,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference {Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Value": "{Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 18,
+      "ThreadId": 38228,
+      "ImageId": 19,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 19,
+      "ThreadId": 38228,
+      "ImageId": 20,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 20,
+      "ThreadId": 38228,
+      "ImageId": 21,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 21,
+      "ThreadId": 4476,
+      "ImageId": 22,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference {Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Value": "{Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 22,
+      "ThreadId": 4476,
+      "ImageId": 23,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Client.Pages.Counter",
+          "Value": "{BlazorApp1.Client.Pages.Counter}",
+          "Members": null
+        },
+        {
+          "Name": "module",
+          "Type": "Microsoft.JSInterop.IJSObjectReference {Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Value": "{Microsoft.JSInterop.Implementation.JSObjectReference}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 43,
+      "ThreadId": 2652,
+      "ImageId": 24,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather",
+          "Value": "{BlazorApp1.Components.Pages.Weather}",
+          "Members": null
+        },
+        {
+          "Name": "startDate",
+          "Type": "System.DateOnly",
+          "Value": "{System.DateOnly}",
+          "Members": null
+        },
+        {
+          "Name": "summaries",
+          "Type": "string[]",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 45,
+      "ThreadId": 2652,
+      "ImageId": 25,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather",
+          "Value": "{BlazorApp1.Components.Pages.Weather}",
+          "Members": null
+        },
+        {
+          "Name": "startDate",
+          "Type": "System.DateOnly",
+          "Value": "{System.DateOnly}",
+          "Members": null
+        },
+        {
+          "Name": "summaries",
+          "Type": "string[]",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 47,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather",
+          "Value": "{BlazorApp1.Components.Pages.Weather}",
+          "Members": null
+        },
+        {
+          "Name": "startDate",
+          "Type": "System.DateOnly",
+          "Value": "{System.DateOnly}",
+          "Members": null
+        },
+        {
+          "Name": "summaries",
+          "Type": "string[]",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 48,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather",
+          "Value": "{BlazorApp1.Components.Pages.Weather}",
+          "Members": null
+        },
+        {
+          "Name": "startDate",
+          "Type": "System.DateOnly",
+          "Value": "{System.DateOnly}",
+          "Members": null
+        },
+        {
+          "Name": "summaries",
+          "Type": "string[]",
+          "Value": "null",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 49,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather",
+          "Value": "{BlazorApp1.Components.Pages.Weather}",
+          "Members": null
+        },
+        {
+          "Name": "startDate",
+          "Type": "System.DateOnly",
+          "Value": "{System.DateOnly}",
+          "Members": null
+        },
+        {
+          "Name": "summaries",
+          "Type": "string[]",
+          "Value": "{string[10]}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 55,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather",
+          "Value": "{BlazorApp1.Components.Pages.Weather}",
+          "Members": null
+        },
+        {
+          "Name": "startDate",
+          "Type": "System.DateOnly",
+          "Value": "{System.DateOnly}",
+          "Members": null
+        },
+        {
+          "Name": "summaries",
+          "Type": "string[]",
+          "Value": "{string[10]}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 59,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 62,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 61,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 59,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 62,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 61,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 59,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 62,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 61,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 59,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 62,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 61,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 59,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 62,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 60,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 8,
+      "LineNumber": 61,
+      "ThreadId": 4476,
+      "ImageId": 26,
+      "Variables": [
+        {
+          "Name": "this",
+          "Type": "BlazorApp1.Components.Pages.Weather.WeatherForecast",
+          "Value": "{BlazorApp1.Components.Pages.Weather.WeatherForecast}",
+          "Members": null
+        }
+      ]
+    },
+    {
+      "FileId": 17,
+      "LineNumber": 15,
+      "ThreadId": 58804,
+      "ImageId": 55,
       "Variables": [
         {
           "Name": "this",
@@ -353,7 +1087,7 @@
       "FileId": 12,
       "LineNumber": 3,
       "ThreadId": 0,
-      "ImageId": 13,
+      "ImageId": 56,
       "Variables": [
         {
           "Name": "args",
@@ -373,7 +1107,7 @@
       "FileId": 12,
       "LineNumber": 5,
       "ThreadId": 0,
-      "ImageId": 13,
+      "ImageId": 56,
       "Variables": [
         {
           "Name": "args",
@@ -393,7 +1127,7 @@
       "FileId": 17,
       "LineNumber": 15,
       "ThreadId": 0,
-      "ImageId": 13,
+      "ImageId": 58,
       "Variables": [
         {
           "Name": "this",
@@ -407,7 +1141,7 @@
       "FileId": 17,
       "LineNumber": 18,
       "ThreadId": 0,
-      "ImageId": 16,
+      "ImageId": 59,
       "Variables": [
         {
           "Name": "module",
@@ -427,7 +1161,7 @@
       "FileId": 17,
       "LineNumber": 19,
       "ThreadId": 0,
-      "ImageId": 16,
+      "ImageId": 59,
       "Variables": [
         {
           "Name": "module",
@@ -447,7 +1181,7 @@
       "FileId": 17,
       "LineNumber": 20,
       "ThreadId": 0,
-      "ImageId": 16,
+      "ImageId": 59,
       "Variables": [
         {
           "Name": "module",
@@ -467,7 +1201,7 @@
       "FileId": 17,
       "LineNumber": 21,
       "ThreadId": 0,
-      "ImageId": 19,
+      "ImageId": 62,
       "Variables": [
         {
           "Name": "module",
@@ -487,107 +1221,7 @@
       "FileId": 17,
       "LineNumber": 22,
       "ThreadId": 0,
-      "ImageId": 20,
-      "Variables": [
-        {
-          "Name": "module",
-          "Type": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
-          "Value": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
-          "Members": null
-        },
-        {
-          "Name": "this",
-          "Type": "BlazorApp1.Client.Pages.Counter",
-          "Value": "BlazorApp1.Client.Pages.Counter",
-          "Members": null
-        }
-      ]
-    },
-    {
-      "FileId": 17,
-      "LineNumber": 18,
-      "ThreadId": 0,
-      "ImageId": 20,
-      "Variables": [
-        {
-          "Name": "module",
-          "Type": "object",
-          "Value": "null",
-          "Members": null
-        },
-        {
-          "Name": "this",
-          "Type": "BlazorApp1.Client.Pages.Counter",
-          "Value": "BlazorApp1.Client.Pages.Counter",
-          "Members": null
-        }
-      ]
-    },
-    {
-      "FileId": 17,
-      "LineNumber": 19,
-      "ThreadId": 0,
-      "ImageId": 20,
-      "Variables": [
-        {
-          "Name": "module",
-          "Type": "object",
-          "Value": "null",
-          "Members": null
-        },
-        {
-          "Name": "this",
-          "Type": "BlazorApp1.Client.Pages.Counter",
-          "Value": "BlazorApp1.Client.Pages.Counter",
-          "Members": null
-        }
-      ]
-    },
-    {
-      "FileId": 17,
-      "LineNumber": 20,
-      "ThreadId": 0,
-      "ImageId": 20,
-      "Variables": [
-        {
-          "Name": "module",
-          "Type": "object",
-          "Value": "null",
-          "Members": null
-        },
-        {
-          "Name": "this",
-          "Type": "BlazorApp1.Client.Pages.Counter",
-          "Value": "BlazorApp1.Client.Pages.Counter",
-          "Members": null
-        }
-      ]
-    },
-    {
-      "FileId": 17,
-      "LineNumber": 21,
-      "ThreadId": 0,
-      "ImageId": 24,
-      "Variables": [
-        {
-          "Name": "module",
-          "Type": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
-          "Value": "Microsoft.JSInterop.WebAssembly.WebAssemblyJSObjectReference",
-          "Members": null
-        },
-        {
-          "Name": "this",
-          "Type": "BlazorApp1.Client.Pages.Counter",
-          "Value": "BlazorApp1.Client.Pages.Counter",
-          "Members": null
-        }
-      ]
-    },
-    {
-      "FileId": 17,
-      "LineNumber": 22,
-      "ThreadId": 0,
-      "ImageId": 24,
+      "ImageId": 63,
       "Variables": [
         {
           "Name": "module",

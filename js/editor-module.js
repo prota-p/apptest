@@ -17,6 +17,11 @@
         });
     }
 
+    isInitialized() {
+        return this.editorInstance !== null;
+    }
+
+
     getText() {
         return this.editorInstance ? this.editorInstance.getValue() : '';
     }
